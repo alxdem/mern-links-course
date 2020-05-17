@@ -1,0 +1,14 @@
+@import '~materialize-css/dist/css/materialize.min.css';
+
+input.form-input {
+    color: #ffffff !important;
+    border-bottom: 1px solid #ffffff !important;
+}
+
+input.form-input + label {
+    color: #ffffff !important;
+}
+
+input.form-input:focus {
+    border-bottom: 1px solid #eedd33 !important;
+}
